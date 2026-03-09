@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bhavin Patel</h1>
+<h3 align="center">Frontend Developer | Aspiring Full-Stack Engineer</h3>
 
-<!--
-**SHISHANK1999/Shishank1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building scalable and performance-driven web applications.  
+I primarily work with **React, Next.js, JavaScript, Tailwind CSS, and Redux**, designing clean component architectures and optimizing applications for real-world performance.
 
-Here are some ideas to get you started:
+Currently leveling up toward **Full-Stack Engineering**, learning backend systems, APIs, databases, and system design to build complete end-to-end products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about writing **maintainable code, thinking in systems (not just screens), and continuously improving my engineering depth.**
+
+---
+
+### 🌍 About Me
+
+- 🌍 I'm based in **India**
+- ✉️ Contact me at **bhavin.2304patel@gmail.com**
+- 🧠 Currently learning **Next.js & Backend Technologies**
+- 👥 Looking to collaborate on **Full-Stack, Frontend, or AI projects**
+
+---
+
+### 🚀 Tech Stack
+
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Redux
+- Vite
+- Tailwind CSS
+- Next.js
+
+**Backend & Tools**
+- Supabase
+- Git
+- Clerk
+
+**Design & Tools**
+- VS Code
+- Photoshop
+- Adobe XD
+- Figma
+
+---
+
+### 🌐 Connect With Me
+
+- GitHub
+- LinkedIn
+- Medium
+
+---
+
+💡 *Always learning, always building.*
