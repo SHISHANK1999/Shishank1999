@@ -13,7 +13,7 @@ I care about writing **maintainable code, thinking in systems (not just screens)
 ### 🌍 About Me
 
 - 🌍 I'm based in **India**
-- ✉️ Contact me at **bhavin.2304patel@gmail.com**
+- ✉️ Contact me at **shishanklku@gmail.com**
 - 🧠 Currently learning **Next.js & Backend Technologies**
 - 👥 Looking to collaborate on **Full-Stack, Frontend, or AI projects**
 
